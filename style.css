@@ -1,0 +1,182 @@
+/* External way of using CSS */
+
+
+/* Common Heading System: */
+/* h1
+{
+    color: royalblue;
+}
+h2
+{
+    color: burlywood;
+}
+h3
+{
+    color: red;
+} */
+
+
+
+
+/* Class System */
+/* .one
+{
+    color: rgba(252, 126, 37, 0.839);
+}
+.two
+{
+    color: blue;
+}
+.three
+{
+    color: green;
+} */
+
+
+
+
+/* ID System */
+/* #first
+{
+    color: rgb(34, 255, 0);
+}
+#second
+{
+    color: rgb(50, 2, 162);
+}
+#third
+{
+    color: rgb(34, 131, 8);
+} */
+
+
+
+
+/* Combo */
+/* #first
+{
+    color: chartreuse;
+}
+#second
+{
+    color: blue;
+}
+#third
+{
+    color: coral;
+}
+.one
+{
+    color: forestgreen;
+} */
+
+
+
+
+/* div usage */
+/* div
+{
+    width: 1578px;
+    height: 200px;
+    background-color: rgb(237, 85, 3);
+    color: bisque;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    font-style: italic;
+    border: rgb(0, 0, 0) solid 3.5px;
+    text-align:center;
+} */
+
+
+
+
+/* BLOCK & INLINE */
+/* div
+{
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    display: inline-block;
+}
+
+.one
+{
+    background-color: greenyellow;
+    font-size: 30px;
+}
+
+.two
+{
+    background-color: rgb(11, 128, 224);
+    font-size: 40px;
+    font-style: italic;
+} */
+
+
+
+
+/* Padding, Margin & Flex */
+/* div
+{
+    background-color:rgb(52, 65, 45);
+    border: black solid 4px; 
+    color:bisque;
+    font-size: 25px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center;
+} */
+
+
+
+
+/* Grid usage */
+/* .outer
+{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.item
+{
+    background-color: black;
+    color: lime;
+    padding: 20px;
+    text-align: center;
+} */
+
+
+
+
+/* Media Query */
+/* body
+{
+    background-color: bisque;
+}
+
+@media (max-width: 700px)
+{
+    body
+    {
+        background-color: coral;
+    }
+}
+
+@media (max-height: 500px)
+{
+    body
+    {
+        background-color: rgb(187, 101, 101);
+    }
+}
+
+div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
